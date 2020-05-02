@@ -1,0 +1,19 @@
+.fullstack-def,
+.fbf {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: rgb(78, 78, 78);
+  padding: 10px;
+  text-align: justify;
+}
+
+.fbf > span {
+  font-size: large;
+  font-weight: bold;
+}
+.fullstack-def span {
+  font-size: larger;
+  font-weight: bold;
+}
+.fullstack-svg {
+  width: 100%;
+}
